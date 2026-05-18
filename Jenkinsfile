@@ -42,6 +42,5 @@ pipeline{
                 echo 'Deploying to production environment with AWS EC2...'
             }
         }
-        // test 
     }
 }
